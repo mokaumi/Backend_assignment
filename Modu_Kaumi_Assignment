@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Coding</h1>
+    <h2>Playing Football</h2>
+    <h3>Reading</h3>
+    <h4>electrical and electronics design</h4>
+    <h5>Traveling</h5>
+    <h6>learning new things</h6>
+
+            <p>Hi, my name is Modu Kaumi i am an electrical and electronics engineer living in Lagos. I enjoy exploring new ideas and learning different skills. 
+                I love spending time with friends and family, and I always look for new ways to improve myself.
+            </p>
+    
+            <p>In class, I learned how to create a basic webpage using HTML. I now understand how to use headings, 
+                paragraphs, and images to structure a webpage properly. This has been an exciting learning experience for me.
+            </p>
+    
+    <img src="./mn.webp" alt="A photo of me" width="300">
+    
+    <p><img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/Back-End-Programming-Languages.png" alt="An interesting online image" width="300"></p>
+
+    <h2>About Me</h2>
+    <p>I am passionate about technology and always eager to learn new things. I enjoy working on creative projects and challenging myself to develop new skills.</p>
+    <img src="https://www.example.com/aboutme.jpg" alt="A representation of me" width="300">
+
+    <h2>My Favorite Things</h2>
+    <h3>Coding</h3>
+    <p>I love coding.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQs_jeJKShqoQSycN4Qcv77SgP_0HG_0y9iQ&s" alt="coding is my hobby" width="300">
+
+    <h3>Football</h3>
+    <p>Playing football keeps me active and helps me bond with friends.</p>
+    <img src="https://media.istockphoto.com/id/1440483244/photo/soccer-stadium-ball-center-midfield.jpg?s=612x612&w=0&k=20&c=oxcLffTMo4KRVq5kCtBXbLRZTPwn7RRxcKlYgIooU_U=" alt="A football game" width="300">
+
+    <h3>Electrical design</h3>
+    <p>electrical and electronics design.</p>
+    <img src="https://www.mangalam.ac.in/assets/images/engineering/eee/eee_banner.jpg" alt="Elect/Elect Design" width="300">
+
+</body>
+</html>
